@@ -43,3 +43,17 @@ int main()
 
 	return 0;
 }
+
+/*
+main output
+arr1: 1 2 3 4 5
+arr2: 3 4 5 6 7
+add of above arr is: 4 6 8 10 12
+subtract of above arr is: -2 -2 -2 -2 -2
+
+arr1 is less than arr2.
+arr1 is less than or equal to arr2
+arr1 is not equal to arr2.
+*/
+
+
